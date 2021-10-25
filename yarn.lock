@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@rxluz/prevent-object-recursion@^0.0.20":
+  version "0.0.20"
+  resolved "https://registry.yarnpkg.com/@rxluz/prevent-object-recursion/-/prevent-object-recursion-0.0.20.tgz#ab090f9a21df344b8c3e0ebca746cad2d967769c"
+  integrity sha512-qNzU/YcbYyVtCywSC/hwoI2mcrDsyJgof029ou1/0PqIYeiK5b3apEv0k+yh0R89V1RtneMWlWcmErrv685Kqw==
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
